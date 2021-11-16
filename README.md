@@ -2,6 +2,8 @@
 # Hi there, I'm Gaurav <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width=40px>
 
 
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=gaurav16-lang&show_icons=true&theme=radical" align="left" width=47%>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav16-lang&layout=compact"  width=47%>
@@ -20,9 +22,22 @@
 
 <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" align="left">
 
-
+<img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="left">
 <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="left">
 <img src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" align="left">
-<img src = "https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<br/>
+<br/>
+<img src = "https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" align="left">
+
+
+<a href="https://github.com/gaurav16-lang/github-readme-activity-graph"><img alt="gaurav16-lang Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gaurav16-lang&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=gaurav16-lang">
+</a>
+<a href="https://github.com/gaurav16-lang?tab=followers"><img src="https://img.shields.io/github/followers/gaurav16-lang?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 
