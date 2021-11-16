@@ -9,7 +9,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav16-lang&layout=compact"  width=47%>
 
 
+## 🙋‍♂️ About Me
 
+- A passionate **full-stack web developer** from India
+- I’m currently learning **Backend and Data Structures and Algorithms.**
 
 # Tools & Technology <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width=50px>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="left">
@@ -29,8 +32,23 @@
 <br/>
 <img src = "https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" align="left">
 
+<br/>
+<br/>
+<p align="center">
+    <a href="https://github.com/gaurav16-lang/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="gaurav16-lang" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav16-lang&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 <a href="https://github.com/gaurav16-lang/github-readme-activity-graph"><img alt="gaurav16-lang Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gaurav16-lang&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/gaurav-maihuria/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
+
+</p>
 
 
 ## ❤ Views and Followers
