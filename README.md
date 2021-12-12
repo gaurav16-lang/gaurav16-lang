@@ -1,12 +1,10 @@
 
-# Hi there, I'm Gaurav <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width=40px>
 
 
+<p align="center">
+<img src="https://media.giphy.com/media/f9xeKI5oVF6sujuf8y/giphy.gif"  width=60% >
+</p>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=gaurav16-lang&show_icons=true&theme=radical" align="left" width=47%>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav16-lang&layout=compact"  width=47%>
 
 
 ## 🙋‍♂️ About Me
@@ -16,6 +14,12 @@
 
 # Tools & Technology <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width=50px>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="left">
+
+
+
+
+
+
 
 
 
@@ -31,9 +35,21 @@
 <br/>
 <br/>
 <img src = "https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" align="left">
+<br/>
+<br/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gaurav16-lang&show_icons=true&theme=radical" width=47%>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav16-lang&layout=compact"  width=47% margin-left=50%>
+</p>
 <br/>
 <br/>
+
+
+
+
+
+
 <p align="center">
     <a href="https://github.com/gaurav16-lang/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="gaurav16-lang" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav16-lang&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
