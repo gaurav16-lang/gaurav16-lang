@@ -7,8 +7,11 @@
 
 
 
-<!-- #### I’m a full-stack web developer and creative coder who specializes in MERN stack development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. A passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems.
- -->
+#### I’m a full-stack web developer and creative coder who specializes in MERN stack development. A passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems.
+
+
+
+ 
 # Tools & Technology <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width=50px>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="left">
 
