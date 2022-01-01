@@ -58,10 +58,11 @@
 
 <a href="https://github.com/gaurav16-lang/github-readme-activity-graph"><img alt="gaurav16-lang Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gaurav16-lang&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-## Connect with me:
+## Connect with me: <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width=80px/>
+
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/gaurav-maihuria/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/gaurav-maihuria/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
 
 
 </p>
