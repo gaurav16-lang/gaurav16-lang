@@ -51,7 +51,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=gaurav16-lang&show_icons=true&theme=radical" width=47%>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav16-lang&layout=compact"  width=47% margin-left=50%>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav16-lang&layout=compact"  width=40% margin-left=50%>
 </p>
 <br/>
 <br/>
@@ -71,10 +71,12 @@
 
 ## Connect with me: <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width=80px/>
 
+
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/gaurav-maihuria/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
-
+<a href = "https://www.linkedin.com/in/gaurav-maihuria/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width=30px /></a>
+<a href=""><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width=30px margin-left=30px/></a>
+ <a href=""><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width=30px margin-left=30px/></a>
 
 </p>
 
