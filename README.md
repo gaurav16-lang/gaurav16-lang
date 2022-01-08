@@ -74,8 +74,8 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/gaurav-maihuria/" target="__blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width=30px /></a>
-<a href="https://www.facebook.com/profile.php?id=100069513334108" target="__blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width=30px style="margin-left=40px"/></a>
+<a href = "https://www.linkedin.com/in/gaurav-maihuria/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width=30px /></a>
+<a href="https://www.facebook.com/profile.php?id=100069513334108" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width=30px style="margin-left=40px"/></a>
  <a href="https://github.com/gaurav16-lang" target="_blank"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width=30px margin-left=40px/></a>
 
 </p>
