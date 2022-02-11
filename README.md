@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 🌱 I’m currently learning Data Structures and MERN Stack.
 - 💬 Ask me about anything, I am happy to help;
-- 👨‍💻 Check my projects and portfolio **[Gaurav](https://gauravmaihuria.dorik.io/)**
+- 👨‍💻 Check my projects and portfolio **[Gaurav](https://gauravmaihuria.dorik.page/)**
 - 📫 How to reach me **maihuriagaurav16@gmail.com**
  
 # Tools & Technology <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width=50px>
