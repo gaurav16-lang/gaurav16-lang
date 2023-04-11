@@ -69,7 +69,6 @@
 
 <a href="https://github.com/gaurav16-lang/github-readme-activity-graph"><img alt="gaurav16-lang Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gaurav16-lang&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-[![Aditya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gaurav16-lang&layuout=compact&hide_border=true)](https://github.com/gaurav16-lang/github-readme-stats)
 
 ## Connect with me: <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width=80px/>
 
